@@ -1,0 +1,14 @@
+C:\Users\abalogun\Desktop\c# program\number3\number3\bin\Debug\net6.0\number3.exe
+C:\Users\abalogun\Desktop\c# program\number3\number3\bin\Debug\net6.0\number3.deps.json
+C:\Users\abalogun\Desktop\c# program\number3\number3\bin\Debug\net6.0\number3.runtimeconfig.json
+C:\Users\abalogun\Desktop\c# program\number3\number3\bin\Debug\net6.0\number3.dll
+C:\Users\abalogun\Desktop\c# program\number3\number3\bin\Debug\net6.0\number3.pdb
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.AssemblyInfoInputs.cache
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.AssemblyInfo.cs
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.csproj.CoreCompileInputs.cache
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.dll
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\refint\number3.dll
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.pdb
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\number3.genruntimeconfig.cache
+C:\Users\abalogun\Desktop\c# program\number3\number3\obj\Debug\net6.0\ref\number3.dll
